@@ -30,7 +30,7 @@ function App() {
       <Provider store={store}>
         <RouterProvider router={appRoutes}/>
       </Provider>
-  );
+ );
 }
 
 export default App;
